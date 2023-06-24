@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhengysh
-- 👀 I’m interested in softwarecomponents
+- 👀 I’m interested in software components
 - 🌱 I’m currently learning c++&python
 - 📫 How to reach me zhengyuesheng2@gmail.com
 

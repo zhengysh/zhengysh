@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhengysh
 - 👀 I’m interested in software components
-- 🌱 I’m currently learning c++&python
+- 🌱 I’m currently learning c++ and python
 - 📫 How to reach me zhengyuesheng2@gmail.com
 
 <!---
